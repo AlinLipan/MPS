@@ -1,0 +1,17 @@
+Responsabilitati principale in cadrul proiectului.
+
+Marin Andreea - Lavinia (PM)
+	-> Cautare algoritmi + stabilire algoritm folosit
+	-> Paralelizarea algoritmului
+
+Tanasescu Oana - Adelina (Tester)
+	-> Alocarea de memorie / initializare date + calculele algoritmului
+	-> Testare + gasire parametri optimi pentru cazul general
+
+Lipan Alin - Ionut (Developer)
+	-> Intelegerea framework-ului primit
+	-> Dezvoltare arhitectura proiect
+	-> Aplicare post-procesare pe rezultatul binarizat
+	-> Code review + optimizari + integrare
+
+Timpul total aproximativ de lucru / membru echipa : 25-30 ore.
