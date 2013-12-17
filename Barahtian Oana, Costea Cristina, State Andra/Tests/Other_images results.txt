@@ -1,4 +1,6 @@
 		Other_images results
+		
+Obs: Rezultatele testelor sunt doar pentru apelul functiei Wolf
 
 ex1.jpg
 		- Marime: 12 kB

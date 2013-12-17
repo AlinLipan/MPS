@@ -1,5 +1,7 @@
 	Rezultate teste
 	
+Obs: Rezultatele testelor sunt doar pentru apelul functiei Wolf
+	
 	
  Test-images:
 	H01.tif
