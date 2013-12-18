@@ -1,0 +1,33 @@
+﻿Build started 18.12.2013 11:12:35.
+     1>Project "C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample\Direct_Access_Image_Sample.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Direct_Access_Image_Sample.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Direct_Access_Image_Sample.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Direct_Access_Image_Sample.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Bernsen.cpp Direct_Access_Image.cpp Direct_Access_Image_Sample.cpp
+         Direct_Access_Image_Sample.cpp
+     1>c:\users\mihai17\desktop\direct_access_image_sample\direct_access_image_sample.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'BYTE', possible loss of data
+         Direct_Access_Image.cpp
+         Bernsen.cpp
+     1>c:\users\mihai17\desktop\direct_access_image_sample\bernsen.cpp(135): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mihai17\desktop\direct_access_image_sample\bernsen.cpp(153): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mihai17\desktop\direct_access_image_sample\bernsen.cpp(177): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mihai17\desktop\direct_access_image_sample\bernsen.cpp(146): warning C4101: 'sigma' : unreferenced local variable
+     1>c:\users\mihai17\desktop\direct_access_image_sample\bernsen.cpp(147): warning C4101: 'confidence' : unreferenced local variable
+     1>c:\users\mihai17\desktop\direct_access_image_sample\bernsen.cpp(144): warning C4101: 'm_ij' : unreferenced local variable
+         Generating Code...
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample\Debug\Direct_Access_Image_Sample.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Direct_Access_Image_Sample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample\Debug\Direct_Access_Image_Sample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample\Debug\Direct_Access_Image_Sample.lib" /MACHINE:X86 Debug\Direct_Access_Image_Sample.exe.embed.manifest.res
+         Debug\Bernsen.obj
+         Debug\Direct_Access_Image.obj
+         Debug\Direct_Access_Image_Sample.obj
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>Done Building Project "C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample\Direct_Access_Image_Sample.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.64

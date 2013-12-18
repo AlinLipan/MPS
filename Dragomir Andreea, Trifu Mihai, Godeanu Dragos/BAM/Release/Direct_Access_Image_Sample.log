@@ -1,0 +1,29 @@
+﻿Build started 18.12.2013 12:02:03.
+     1>Project "C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample - Copy\Direct_Access_Image_Sample.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Direct_Access_Image_Sample.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W4 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Direct_Access_Image_Sample.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Bernsen.cpp
+         Bernsen.cpp
+     1>Bernsen.cpp(135): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Bernsen.cpp(151): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Bernsen.cpp(175): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample - Copy\Release\Direct_Access_Image_Sample.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Direct_Access_Image_Sample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample - Copy\Release\Direct_Access_Image_Sample.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample - Copy\Release\Direct_Access_Image_Sample.lib" /MACHINE:X86 Release\Bernsen.obj
+         Release\Direct_Access_Image.obj
+         Release\Direct_Access_Image_Sample.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         Direct_Access_Image_Sample.vcxproj -> C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample - Copy\Release\Direct_Access_Image_Sample.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample - Copy\Release\Direct_Access_Image_Sample.exe;#1" /manifest Release\Direct_Access_Image_Sample.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Direct_Access_Image_Sample.unsuccessfulbuild".
+         Touching "Release\Direct_Access_Image_Sample.lastbuildstate".
+     1>Done Building Project "C:\Users\Mihai17\Desktop\Direct_Access_Image_Sample - Copy\Direct_Access_Image_Sample.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.96
