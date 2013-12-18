@@ -1,0 +1,113 @@
+	Rezultate teste
+	
+Obs: Rezultatele testelor sunt doar pentru apelul functiei Wolf
+	
+	
+ Test-images:
+	H01.tif
+		- Marime: 1.52MB
+		- Dimensiuni: 1489 x 380
+		- Rezolutie: 300 DPI
+		- Timp: 2.412 s , 2.421 s 
+
+	H02.jpg
+		- Marime: 124 kB
+		- Dimensiuni: 1570 x 841
+		- Rezolutie: 300 DPI
+		- Timp: 5.97 s , 6.005 s
+		
+	H03.tif	
+		- Marime: 724 kB
+		- Dimensiuni: 786 x 423
+		- Rezolutie: 96 DPI
+		- Timp: 1.543 s, 1.554 s 
+	
+	H04.bmp
+		- Marime: 1.43 MB
+		- Dimensiuni: 935 x 537
+		- Rezolutie:
+		- Timp: 2.624 s, 2.396 s
+	H05.jpg
+		- Marime: 40 KB
+		- Dimensiuni: 1726 x 391
+		- Rezolutie: 400 DPI
+		- Timp: 2.889 s, 2.879 s
+	H06.tif
+		- Marime: 904 kB
+		- Dimensiuni: 945 X 366
+		- Rezolutie: 300 DPI
+		- Timp: 1.513 s, 1.53 s 
+	H07.jpg
+		- Marime: 44 kB
+		- Dimensiuni:1742 X 467
+		- Rezolutie: 400 DPI
+		- Timp: 3.553 s, 3.571 s
+	H08.jpg
+		- Marime: 76 kB
+		- Dimensiuni: 2280 X 326
+		- Rezolutie: 96 DPI
+		- Timp: 3.059 s, 3.454 s
+	H09.jpg
+		- Marime: 100 kB
+		- Dimensiuni: 1158 X 637
+		- Rezolutie: 300 DPI
+		- Timp: 3.316 s, 3.305 s 
+	H10.jpg
+		- Marime: 96kB
+		- Dimensiuni: 1768 X 624
+		- Rezolutie: 96 DPI
+		- Timp: 5.015 s, 5.104 s
+	
+Test-images Handwritten
+	H01.tif
+		- Marime: 2.47MB
+		- Dimensiuni: 2025 X 426
+		- Rezolutie: 300 DPI
+		- Timp: 3.86 s 
+	H02.tif
+		- Marime: 3.70MB
+		- Dimensiuni: 946 X 1366
+		- Rezolutie: 200 DPI
+		- Timp: 6.203 s
+	H03.tif
+		- Marime: 844KB
+		- Dimensiuni: 582 X 492
+		- Rezolutie: 72 DPI
+		- Timp: 1.372 s
+	H04.tif
+		- Marime: 1.81MB
+		- Dimensiuni: 1091 X 581
+		- Rezolutie: 72 DPI
+		- Timp: 2.865 s
+	H05.tif
+		- Marime: 2.74MB
+		- Dimensiuni: 1341 X 713
+		- Rezolutie: 72 DPI
+		- Timp: 4.813 s 
+		
+Test-images printed:
+	P01.tif
+		- Marime: 980 kB
+		- Dimensiuni: 1268 X 263
+		- Rezolutie: 96 DPI
+		- Timp: 1.811 s
+	P02.tif
+		- Marime: 1.08 MB
+		- Dimensiuni: 1223 X 310
+		- Rezolutie: 96 DPI
+		- Timp: 1.596 s 
+	P03.tif
+		- Marime: 1.62 MB
+		- Dimensiuni: 1153 X 493
+		- Rezolutie: 96 DPI
+		- Timp: 2.52 s 
+	P04.tif
+		- Marime: 1.89 MB
+		- Dimensiuni: 1849 X 357
+		- Rezolutie: 96 DPI
+		- Timp: 2.78 s
+	P05.tif
+		- Marime: 928 KB
+		- Dimensiuni: 1218 X 259
+		- Rezolutie: 300 DPI
+		- Timp: 1.348 s 

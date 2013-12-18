@@ -1,0 +1,22 @@
+		Other_images results
+		
+Obs: Rezultatele testelor sunt doar pentru apelul functiei Wolf
+
+ex1.jpg
+		- Marime: 12 kB
+		- Dimensiuni: 378 x 589
+		- Rezolutie: 72 DPI
+		- Error code -2
+
+in1.png
+		- Marime: 13.1 MB
+		- Dimensiuni: 3321 x 4352
+		- Timp: 66.713 s
+in3.png
+		- Marime: 20.9 MB
+		- Dimensiuni: 4244 x 5551
+		- Timp: 111.851 s
+in4.jpg
+		- Marime: 116 KB
+		- Dimensiuni: 572 x 807
+		- Error code -2
