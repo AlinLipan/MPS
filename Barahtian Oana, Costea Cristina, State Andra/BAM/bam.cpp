@@ -230,8 +230,7 @@ void Wolf(KImage *im, KImage *output, int winx,
 
 
 int _tmain(int argc, _TCHAR* argv[])
-{	clock_t begin, end;
-	double time_spent;	
+{		
     //Verify command-line usage correctness
     if (argc != 4)
     {
@@ -292,9 +291,9 @@ int _tmain(int argc, _TCHAR* argv[])
         //Create binary image
         KImage *pImageBinary = new KImage(intWidth, intHeight, 1);
 		KImage *output = new KImage(intWidth, intHeight, 8);
-		begin = clock();
+		
 		Wolf(pImageGrayscale, output, winx, winy, optK);
-		end = clock();	
+		
 
 		 _stprintf_s(strNewFileName, sizeof(strNewFileName) / sizeof(TCHAR), _T("%s"), argv[2]);
 		 output->SaveAs(strNewFileName, SAVE_TIFF_LZW);	
@@ -346,9 +345,6 @@ int _tmain(int argc, _TCHAR* argv[])
     // delete the grayscale image
     delete pImageGrayscale;
 
-	time_spent = (double)(end - begin) / CLOCKS_PER_SEC;
-	cout << "Time spent in Wolf algorithm : " << time_spent << " seconds" << endl;
-	cin.get();
     //Return with success
     return 0;
 }
